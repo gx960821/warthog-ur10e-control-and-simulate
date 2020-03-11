@@ -1,0 +1,15 @@
+<package>
+  <description brief="gp">
+
+     gp
+
+  </description>
+  <author>gx</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gp</url>
+  <depend package="urdf"/>
+
+</package>
+
+
